@@ -1,0 +1,6 @@
+board:
+  name: w6100_evb_pico
+  full_name: W6100 Evaluation Pico
+  vendor: wiznet
+  socs:
+  - name: rp2040
